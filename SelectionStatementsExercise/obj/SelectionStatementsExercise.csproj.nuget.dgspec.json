@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pammeasel/Desktop/Repos/SelectionStatementsExercise/SelectionStatementsExercise/SelectionStatementsExercise.csproj": {}
+    "/Users/pammeasel/Desktop/Repos/SelectionStatementsEx1/SelectionStatementsExercise/SelectionStatementsExercise.csproj": {}
   },
   "projects": {
-    "/Users/pammeasel/Desktop/Repos/SelectionStatementsExercise/SelectionStatementsExercise/SelectionStatementsExercise.csproj": {
+    "/Users/pammeasel/Desktop/Repos/SelectionStatementsEx1/SelectionStatementsExercise/SelectionStatementsExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pammeasel/Desktop/Repos/SelectionStatementsExercise/SelectionStatementsExercise/SelectionStatementsExercise.csproj",
+        "projectUniqueName": "/Users/pammeasel/Desktop/Repos/SelectionStatementsEx1/SelectionStatementsExercise/SelectionStatementsExercise.csproj",
         "projectName": "SelectionStatementsExercise",
-        "projectPath": "/Users/pammeasel/Desktop/Repos/SelectionStatementsExercise/SelectionStatementsExercise/SelectionStatementsExercise.csproj",
+        "projectPath": "/Users/pammeasel/Desktop/Repos/SelectionStatementsEx1/SelectionStatementsExercise/SelectionStatementsExercise.csproj",
         "packagesPath": "/Users/pammeasel/.nuget/packages/",
-        "outputPath": "/Users/pammeasel/Desktop/Repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/",
+        "outputPath": "/Users/pammeasel/Desktop/Repos/SelectionStatementsEx1/SelectionStatementsExercise/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pammeasel/.nuget/NuGet/NuGet.Config"
