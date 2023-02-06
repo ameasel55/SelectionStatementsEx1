@@ -7,23 +7,32 @@ class Program
         var r = new Random();
         var favNumber = r.Next(1,1000);
 
-        Console.WriteLine("Try to guess my favorite number");
-        var userInput = int.Parse(Console.ReadLine());
+        while (true)
+        {
 
-        if (userInput < favNumber)
-        {
-            Console.WriteLine("too low");
-        }
-        else if (userInput > favNumber)
-        {
-            Console.WriteLine("too high");
-        }
-        else
-        {
-            Console.WriteLine("OMG you got it!!!! " +
-                "That IS my favorite number");
-        }
 
+
+            Console.WriteLine("Try to guess my favorite number");
+            var userInput = int.Parse(Console.ReadLine());
+
+            if (userInput < favNumber)
+            {
+                Console.WriteLine("Nope,too low");
+                
+            }
+            else if (userInput > favNumber)
+            {
+                Console.WriteLine("Nope,too high");
+                
+            }
+            else
+            {
+                Console.WriteLine("OMG you got it!!!! " +
+                    "That IS my favorite number");
+                break;
+            }
+
+        }
     }
 }
 
